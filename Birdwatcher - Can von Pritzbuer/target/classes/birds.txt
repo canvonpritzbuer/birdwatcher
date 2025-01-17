@@ -1,0 +1,2 @@
+Hawk,Dorkus dorkus,1
+Crow,Corvus corvus,0
